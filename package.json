@@ -1,0 +1,16 @@
+{
+  "name": "digg",
+  "version": "1.0.0",
+  "description": "Run phantomjs + selenium ======================== $ phantomjs --webdriver=9134 $ java -jar selenium-server-standalone-2.44.0.jar",
+  "main": "prakard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "wd": "^0.3.11"
+  }
+}
